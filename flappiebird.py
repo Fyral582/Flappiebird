@@ -117,7 +117,6 @@ def main():
 
         user_input = pygame.key.get_pressed()
 
-
         window.blit(skyline_image, (0,0))
 
         if len(ground) <= 2:
